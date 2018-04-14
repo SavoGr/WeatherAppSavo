@@ -1,0 +1,12 @@
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\bin\Debug\WeatherAppSavo.exe
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\bin\Debug\WeatherAppSavo.pdb
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.Form1.resources
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.Properties.Resources.resources
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.csproj.GenerateResource.cache
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.csproj.CoreCompileInputs.cache
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.exe
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.pdb
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\bin\Debug\WeatherAppSavo.exe.config
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.csproj.CopyComplete
+C:\Users\Savoo\Visual Studio Projects\WeatherAppSavo\WeatherAppSavo\obj\Debug\WeatherAppSavo.csprojResolveAssemblyReference.cache
